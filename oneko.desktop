@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Oneko
+Comment=Cat that chases your cursor
+Exec=oneko
+Icon=oneko.png
+Categories=Application;Game;X-Fedora;
+Terminal=false
+Type=Application
+Encoding=UTF-8
